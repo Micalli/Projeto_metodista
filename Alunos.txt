@@ -1,3 +1,3 @@
-Aluno1: Bruno 		Aluno2: José	Aluno3: Lucas
-Nota1: 9,7              Nota2: 5,7 	Nota3: 7,8
+Aluno1: Bruno 		Aluno2: José	Aluno3: Lucas		Aluno4: Camila
+Nota1: 9,7              Nota2: 5,7 	Nota3: 7,8		Nota3: 8,8	
 			
